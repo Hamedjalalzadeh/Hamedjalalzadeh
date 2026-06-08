@@ -36,4 +36,14 @@ I am a **Network Specialist and Designer** with a strong focus on core routing, 
 ---
 
 ### 📊 Live Engineering Dashboard
-*(In the next steps, we will activate the dynamic charts here)*
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamedjalalzadeh&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="Hamed's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamedjalalzadeh&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Hamedjalalzadeh&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
