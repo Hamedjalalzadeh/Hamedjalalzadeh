@@ -49,6 +49,8 @@ I am a **Network Specialist and Designer** with a strong focus on core routing, 
 
 ---
 
+---
+
 ### 🌟 Profile Motion Zone
 
 <p align="center">
@@ -56,5 +58,7 @@ I am a **Network Specialist and Designer** with a strong focus on core routing, 
 </p>
 
 <p align="center">
+  <img src="https://k6c.top/assets/hr.gif" width="100%" alt="Neon Line Spacer" />
+</p>
   <img src="https://capsule-render.vercel.app/type=waving&color=03045E&height=120&section=footer" width="100%" />
 </p>
