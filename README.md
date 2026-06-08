@@ -1,8 +1,17 @@
-# Hamed Jalalzadeh
+# Hamed
+
+---
+
+![My Banner](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80)
+
 ---
 
 * Networking
 * Design
+
+---
+
+[LinkedIn Profile](https://www.linkedin.com/in/hamedjalalzadeh/)
 
 ---
 
