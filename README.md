@@ -1,13 +1,13 @@
-# Hamed
+# **Hamed Jalalzadeh**
 
 ---
 
-![My Banner](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80)
+## *About Me*
 
 ---
 
-* Networking
-* Design
+* Networking 
+* Design 
 
 ---
 
@@ -15,6 +15,8 @@
 
 ---
 
-![Design](https://img.shields.io/badge/Skill-Design-orange?labelColor=red&style=for-the-badge)
+![My Banner](https://example.com/banner.png)
 
-![Network](https://img.shields.io/badge/Skill-Networking-blue?labelColor=red&style=for-the-badge)
+---
+
+![Design](https://img.shields.io/badge/Skill-Design-orange?labelColor=red&style=for-the-badge)
