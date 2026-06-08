@@ -46,3 +46,15 @@ I am a **Network Specialist and Designer** with a strong focus on core routing, 
 </p>
 
 ---
+
+---
+
+### 🌟 Profile Motion Zone
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Urbanist&weight=700&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Scalable+Network+Infrastructures...;Automating+with+Python+%26+Cisco+APIs...;Designing+the+Future+of+AI-Driven+Systems..." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=03045E&height=120&section=footer" width="100%" />
+</p>
