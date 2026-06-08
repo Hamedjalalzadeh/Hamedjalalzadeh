@@ -1,5 +1,5 @@
 <p align="center">
- [ <h1 align="center">🌐 HAMED JALALZADEH</h1>](https://readme-typing-svg.demolab.com/demo/?background=FF1B0000&lines=Hamed+jalalzadeh)
+
   <p align="center"><b>Network Specialist & Infrastructure Designer | Automation Engineer</b></p>
 </p>
 
