@@ -1,3 +1,30 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=slice&theme=tokyonight&color=03045E&height=200&section=header&text=Hamed%20Jalalzadeh&fontSize=45&fontColor=ffffff&subText=Network%20Specialist%20|%20Infrastructure%20Designer%20|%20Automation&subTextY=135&subFontSize=16" width="100%" alt="Hamed's Banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Urbanist&weight=700&size=28&pause=1000&color=FF8E2E&center=true&vCenter=true&width=700&lines=Designing+scalable+networks+that+survive+real+traffic...;Automating+infrastructures+with+Python+and+APIs..." alt="Header Typing" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LOCATION-MUNICH%2C%20GERMANY-B2B6BA?style=for-the-badge&labelColor=222" />
+  <img src="https://img.shields.io/badge/ROLE-NETWORK%20SPECIALIST-03045E?style=for-the-badge&labelColor=222" />
+  <img src="https://img.shields.io/badge/FOCUS-CISCO%20INFRASTRUCTURE-FF8E2E?style=for-the-badge&labelColor=222" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CLOUD-AWS%20%7C%20AZURE-03045E?style=for-the-badge&labelColor=222" />
+</p>
+
+<p align="center">
+  <a href="#about-me">About</a> • 
+  <a href="#tech-universe">Tech Universe</a> • 
+  <a href="#live-engineering-dashboard">Dashboard</a> • 
+  <a href="#profile-motion-zone">Motion Zone</a>
+</p>
+
+---
+
 # Hi there, I'm Hamed Jalalzadeh 👋
 
 <p align="left">
