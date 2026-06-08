@@ -84,3 +84,6 @@ I am a **Network Specialist and Designer** with a strong focus on core routing, 
 
 ---
 
+
+![Design](https://img.shields.io/badge/Skill-Design-orange?labelColor=red&style=for-the-badge)
+
