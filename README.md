@@ -22,12 +22,11 @@ I am a **Network Specialist and Designer** with a strong focus on core routing, 
   <img src="https://readme-typing-svg.demolab.com?font=Urbanist&weight=700&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Scalable+Network+Infrastructures...;Automating+with+Python+%26+Cisco+APIs...;Designing+the+Future+of+AI-Driven+Systems..." alt="Typing SVG" />
 </p>
 
-<kbd>
-  <img src="https://richardtop.github.io/images/line.gif" width="100%" alt="Line Animation" />
-</kbd>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Aqua Neon Line" />
+</p>
 
 ---
-
 ### 🚀 Tech Universe
 
 #### 🌐 Networking & Infrastructure
