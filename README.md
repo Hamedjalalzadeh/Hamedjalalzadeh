@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Hamed's Banner" />
+  <h1 align="center">🌐 HAMED JALALZADEH</h1>
+  <p align="center"><b>Network Specialist & Infrastructure Designer | Automation Engineer</b></p>
 </p>
 
 <p align="center">
@@ -20,7 +21,6 @@
 </p>
 
 ---
-
 
 # Hi there, I'm Hamed Jalalzadeh 👋
 
